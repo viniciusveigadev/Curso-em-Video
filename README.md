@@ -1,3 +1,3 @@
-Curso de desenvolvimento, usando as seguintes tecnologias: HTML5 + CSS + Javascrip 
+Desenvolvimento site do projeto Google Glass usando as seguintes tecnologias: HTML5 + CSS + Javascrip 
 
-Site: https://google-glass.netlify.com/
+Apresentação: https://google-glass.netlify.com/
